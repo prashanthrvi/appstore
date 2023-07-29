@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: cornsilk;
+  margin: 10px;
+  padding: 12px;
+  width: 135px;
+  height: 135px;
+  border-radius: 5px;
+}
+
+.app-img {
+  width: 60px;
+  height: 60px;
+}
+.app-name {
+  margin-top: 6px;
+  margin-bottom: 0px;
+}

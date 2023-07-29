@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.tab-item {
+  list-style-type: none;
+}
+button {
+  background-color: transparent;
+  border: 0px;
+  margin-right: 13px;
+  margin-left: 13px;
+  font-size: 15px;
+  outline: 0px;
+  font-size: 16px;
+}
+.add-style {
+  border-bottom: 3px solid darkred;
+}
